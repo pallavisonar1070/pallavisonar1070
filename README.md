@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me 
 - 👩🏻‍💻 Pronouns: She/Her
 - 💼 I’m currently working as a <strong>Software Engineer</strong> at [UBS](https://www.ubs.com/in/en.html).
-- 📋 I've previously worked as a Software Engineer at [Credit Suisse](https://en.wikipedia.org/wiki/Credit_Suisse).
+- 📋 I've previously worked as a <strong>Software Engineer</strong> at [Credit Suisse](https://en.wikipedia.org/wiki/Credit_Suisse).
 - 🧭 I love exploring and working both in frontend and backend.
 
   
